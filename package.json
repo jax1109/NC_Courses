@@ -1,0 +1,22 @@
+{
+  "name": "nc_courses",
+  "version": "1.0.0",
+  "description": "1. ## list1\r 2. ## list2\r + test *italic*\r - test **bold**\r * test ***bold***",
+  "main": "index.js",
+  "scripts": {
+    "test": "jasmine"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jax1109/NC_Courses.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jax1109/NC_Courses/issues"
+  },
+  "homepage": "https://github.com/jax1109/NC_Courses#readme",
+  "devDependencies": {
+    "jasmine": "^2.8.0"
+  }
+}
